@@ -47,12 +47,11 @@ return (
 
                 
           <p>
-            In my spare time, I focus on contributing to open-source projects, alongside working out 💪, 
-            pursuing my hobbies 📸, and writing tech content ✍️.
+            In my spare time, I focus on processing my skills and learning in new technologies while also ensuring I take time out of my day to soak in sunlight and go hiking on my free time. 
           </p>
           
           <p>
-            Self-motivated, Team player, Love coding 💻
+            Self-motivated, Avid Learner of new technologies, and a Team player.
           </p>
         </div>
       </div>

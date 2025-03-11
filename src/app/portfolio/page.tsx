@@ -1,11 +1,11 @@
 export default function Portfolio() {
     const projects = [
       {
-        title: "Project 1",
-        description: "A brief description of your project and what technologies you used.",
+        title: "Weather Dashboard",
+        description: "A weather dashboard that allows users to enter the name of any city around the world and receive real-time weather data from the OpenWeather API.",
         image: "/projects/project1.jpg",
-        tags: ["React", "Next.js", "Tailwind CSS"],
-        link: "#"
+        tags: ["HTML", "Python", "React", "Next.js", "Tailwind CSS"],
+        link: "https://github.com/jason-alvarez-data/weather_dashboard"
       },
       {
         title: "Project 2",

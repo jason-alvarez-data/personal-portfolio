@@ -17,20 +17,20 @@ export default function About() {
         
         <h2 className="text-xl font-semibold text-amber-400 mt-8 mb-4">My Journey</h2>
         <p>
-          Share your journey here. How you got started, what inspired you, and where you are now.
+        My inspiration for learning to program applications with AI stems from my intrinsic desire to tackle challenges independently and problem-solve within my own projects. I thrive on creating and addressing unique obstacles in a space where I can take the time to develop solutions on my own terms, continuously pushing the boundaries of my skills and creativity.
         </p>
         
         <h2 className="text-xl font-semibold text-amber-400 mt-8 mb-4">Skills & Expertise</h2>
         <ul className="list-disc pl-5 space-y-2">
-          <li>Skill 1 - Details about your proficiency</li>
-          <li>Skill 2 - Details about your proficiency</li>
-          <li>Skill 3 - Details about your proficiency</li>
-          <li>Skill 4 - Details about your proficiency</li>
+          <li>Problem Solving - I demonstrate creativity and efficiency in overcoming coding challenges by utilizing AI tools like Cursor AI editor to find innovative solutions.</li>
+          <li>Project Management - I skillfully organize, plan, and execute projects, ensuring they are throughly developed and shared on GitHub for broader community engagement.</li>
+          <li>Collaboration - I actively contribue to and foster a collaborative environment by sharing my projects on GitHub, encouraging others to participate and enhance my work.</li>
+          <li>Continous Learning - I'm committed to growing my programming skills with the assistance of AI which showcases my dedication to lifelong learning and adaptability in the tech field.</li>
         </ul>
         
         <h2 className="text-xl font-semibold text-amber-400 mt-8 mb-4">Personal Interests</h2>
         <p>
-          When I'm not coding, I enjoy... (your hobbies and interests)
+          When I'm not exploring new technologies, I enjoy hiking around my local area and have began collecting coins from around the world. 
         </p>
       </div>
     </div>

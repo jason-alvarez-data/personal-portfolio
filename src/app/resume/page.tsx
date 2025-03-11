@@ -8,9 +8,15 @@ export default function Resume() {
           <section>
             <h2 className="text-2xl font-semibold text-amber-400 mb-4">Education</h2>
             <div className="bg-zinc-900 p-4 rounded-lg">
-              <h3 className="text-xl font-medium">Your University</h3>
-              <p className="text-gray-400">Bachelor's Degree in Your Field</p>
-              <p className="text-gray-400">2018 - 2022</p>
+              <h3 className="text-xl font-medium">Chicago School of Professional Psychology</h3>
+              <p className="text-gray-400">Master of Arts in Industrial/Organizational Psychology</p>
+              <p className="text-gray-400">2019 - 2021</p>
+            </div>
+
+            <div className="bg-zinc-900 p-4 rounded-lg">
+              <h3 className="text-xl font-medium">San Jose State University</h3>
+              <p className="text-gray-400">Bachelor of Arts in Psychology</p>
+              <p className="text-gray-400">2011 - 2013</p>
             </div>
           </section>
           
@@ -50,7 +56,6 @@ export default function Resume() {
                   <ul className="list-disc list-inside text-gray-300">
                     <li>JavaScript/TypeScript</li>
                     <li>Python</li>
-                    <li>Java</li>
                   </ul>
                 </div>
                 <div>
@@ -65,8 +70,7 @@ export default function Resume() {
                   <h3 className="font-medium mb-2">Tools</h3>
                   <ul className="list-disc list-inside text-gray-300">
                     <li>Git</li>
-                    <li>Docker</li>
-                    <li>AWS</li>
+                    <li>Cursor AI</li>
                   </ul>
                 </div>
               </div>
