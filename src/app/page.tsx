@@ -1,6 +1,5 @@
 import TerminalText from '../components/TerminalText';
 import ArticleCard from '../components/ArticleCard';
-import Link from 'next/link';
 
 export default function Home() {
     const articles = [
@@ -42,7 +41,7 @@ return (
                 <p>
                 Your field is built by humans. Unfortunately, humans make errors, <span className="text-amber-400 font-bold">LOTS of ERRORS</span>. 
             Throughout human history, humans have learned to craft machines and tools to help us construct complex architecture. 
-            Inspired by this, I explore practical methodologies and tools to improve large-scale systems' quality, reliability, and efficiency.
+            Inspired by this, I explore practical methodologies and tools to improve large-scale systems&apos; quality, reliability, and efficiency.
                 </p>
 
                 

@@ -12,7 +12,7 @@ export default function About() {
       
       <div className="space-y-6 text-gray-300">
         <p>
-          Hello! I'm Jason, a passionate learner with computer programming and data analytics skills.
+          Hello! I&apos;m Jason, a passionate learner with computer programming and data analytics skills.
         </p>
         
         <h2 className="text-xl font-semibold text-amber-400 mt-8 mb-4">My Journey</h2>
@@ -25,12 +25,12 @@ export default function About() {
           <li>Problem Solving - I demonstrate creativity and efficiency in overcoming coding challenges by utilizing AI tools like Cursor AI editor to find innovative solutions.</li>
           <li>Project Management - I skillfully organize, plan, and execute projects, ensuring they are throughly developed and shared on GitHub for broader community engagement.</li>
           <li>Collaboration - I actively contribue to and foster a collaborative environment by sharing my projects on GitHub, encouraging others to participate and enhance my work.</li>
-          <li>Continous Learning - I'm committed to growing my programming skills with the assistance of AI which showcases my dedication to lifelong learning and adaptability in the tech field.</li>
+          <li>Continous Learning - I&apos;m committed to growing my programming skills with the assistance of AI which showcases my dedication to lifelong learning and adaptability in the tech field.</li>
         </ul>
         
         <h2 className="text-xl font-semibold text-amber-400 mt-8 mb-4">Personal Interests</h2>
         <p>
-          When I'm not exploring new technologies, I enjoy hiking around my local area and have began collecting coins from around the world. 
+          When I&apos;m not exploring new technologies, I enjoy hiking around my local area and have began collecting coins from around the world. 
         </p>
       </div>
     </div>
