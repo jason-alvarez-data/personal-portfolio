@@ -214,8 +214,9 @@ Currently in development, this project will showcase advanced data analysis tech
   }
 };
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const project = projectsData[params.slug as keyof typeof projectsData];
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const project = projectsData[slug as keyof typeof projectsData];
   
   if (!project) {
     return {
@@ -231,7 +232,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       title: project.title,
       description: project.overview,
       type: 'article',
-      url: `https://jason-alvarez-data.vercel.app/portfolio/${params.slug}`,
+      url: `https://jason-alvarez-data.vercel.app/portfolio/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -241,8 +242,9 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   };
 }
 
-export default function ProjectDetail({ params }: { params: { slug: string } }) {
-  const project = projectsData[params.slug as keyof typeof projectsData];
+export default async function ProjectDetail({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const project = projectsData[slug as keyof typeof projectsData];
 
   if (!project) {
     notFound();
