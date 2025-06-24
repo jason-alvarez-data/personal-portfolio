@@ -59,7 +59,7 @@ export default function Resume() {
                   Albertina Kerr Centers empower individuals with intellectual and developmental disabilities to lead self-determined lives through comprehensive support services in Oregon.
                 </p>
                 <ul className="list-disc list-inside mt-3 text-gray-300 space-y-2">
-                  <li><span className="font-medium text-amber-400">Incident Tracking:</span> Monitor and manage workers' compensation claims</li>
+                  <li><span className="font-medium text-amber-400">Incident Tracking:</span> Monitor and manage workers&apos; compensation claims</li>
                   <li><span className="font-medium text-amber-400">Safety Programs:</span> Coordinate safety initiatives across Kerr including facilitating monthly centralized safety committee meetings</li>
                   <li><span className="font-medium text-amber-400">OSHA Administration:</span> Manage OSHA employee incident documentation and compliance</li>
                 </ul>
@@ -70,7 +70,7 @@ export default function Resume() {
                 <p className="text-amber-400 font-medium">Oregon Health & Science University</p>
                 <p className="text-gray-400">Portland, OR | March 2023 – September 2023</p>
                 <p className="text-gray-300 mt-2 mb-3 italic">
-                  Oregon Health & Science University is Oregon's only public academic health center, renowned for its comprehensive healthcare services, cutting-edge research, and top-ranked educational programs.
+                  Oregon Health & Science University is Oregon&apos;s only public academic health center, renowned for its comprehensive healthcare services, cutting-edge research, and top-ranked educational programs.
                 </p>
                 <ul className="list-disc list-inside mt-3 text-gray-300 space-y-2">
                   <li>Conducted investigation into employee performance and concerns, information security and labor relations for five departments in the University hospital</li>
@@ -112,7 +112,7 @@ export default function Resume() {
                   <ul className="space-y-1 text-gray-300">
                     <li>• Workday</li>
                     <li>• AskHR Ticketing System</li>
-                    <li>• Workers' Compensation Management</li>
+                    <li>• Workers&apos; Compensation Management</li>
                     <li>• OSHA Compliance</li>
                   </ul>
                 </div>

@@ -13,7 +13,7 @@ export default function About() {
       <div className="space-y-8">
         <section className="glass p-6">
           <p className="text-gray-300 leading-relaxed text-lg">
-            Hello! I'm Jason Alvarez, a passionate software developer with a unique background that bridges psychology and technology. 
+            Hello! I&apos;m Jason Alvarez, a passionate software developer with a unique background that bridges psychology and technology. 
             My journey combines the analytical rigor of psychological research with the creative problem-solving of software development, 
             creating a distinctive approach to building user-centered applications.
           </p>
@@ -82,12 +82,12 @@ export default function About() {
           </h2>
           <div className="glass p-6">
             <p className="text-gray-300 leading-relaxed mb-4">
-              When I'm not exploring new technologies or working on development projects, I enjoy connecting with nature through 
+              When I&apos;m not exploring new technologies or working on development projects, I enjoy connecting with nature through 
               hiking in the beautiful landscapes around the San Francisco Bay Area. This outdoor time helps me maintain perspective, 
               clear my mind, and often leads to creative insights for technical challenges.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              I've also developed a passion for <span className="text-amber-400 font-medium">numismatics</span> – collecting coins from around the world. 
+              I&apos;ve also developed a passion for <span className="text-amber-400 font-medium">numismatics</span> – collecting coins from around the world. 
               This hobby reflects my appreciation for history, cultural diversity, and attention to detail – qualities that translate 
               well into my approach to software development and user experience design.
             </p>
@@ -100,9 +100,9 @@ export default function About() {
           </h2>
           <div className="glass p-6">
             <p className="text-gray-300 leading-relaxed mb-6">
-              I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about 
-              technology's potential to improve human experiences. Whether you want to discuss a project idea, share insights 
-              about psychology-driven development, or just chat about the latest in tech, I'd love to hear from you.
+              I&apos;m always interested in connecting with fellow developers, potential collaborators, and anyone passionate about 
+              technology&apos;s potential to improve human experiences. Whether you want to discuss a project idea, share insights 
+              about psychology-driven development, or just chat about the latest in tech, I&apos;d love to hear from you.
             </p>
             <div className="flex flex-wrap gap-4">
               <a 

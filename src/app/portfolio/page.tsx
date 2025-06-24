@@ -55,7 +55,7 @@ export default function Portfolio() {
         
         <div className="mb-8">
           <p className="text-gray-300 text-lg leading-relaxed">
-            Here are some of the projects I've built, showcasing my skills in web development, 
+            Here are some of the projects I&apos;ve built, showcasing my skills in web development, 
             data analysis, and user experience design. Each project represents a unique challenge 
             and learning opportunity. <span className="text-amber-400">Click on any project card to learn more</span> about the technical details and development process.
           </p>
@@ -143,7 +143,7 @@ export default function Portfolio() {
         <div className="mt-12 glass p-6">
           <h2 className="text-2xl font-semibold mb-4 text-amber-400">What's Next?</h2>
           <p className="text-gray-300 leading-relaxed mb-4">
-            I'm continuously working on new projects and learning emerging technologies. 
+            I&apos;m continuously working on new projects and learning emerging technologies. 
             Currently exploring machine learning applications and advanced React patterns.
           </p>
           <div className="flex gap-4">

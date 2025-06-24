@@ -35,7 +35,7 @@ return (
 
             <div className="space-y-6 text-gray-300">
                 <p>
-                    I'm Jason Alvarez, a passionate software developer with a unique background in psychology. I hold a Master's degree from the <span className="text-amber-400">Chicago School of Professional Psychology 🎓</span>, which gives me a unique perspective on human-centered design and user experience.
+                    I&apos;m Jason Alvarez, a passionate software developer with a unique background in psychology. I hold a Master&apos;s degree from the <span className="text-amber-400">Chicago School of Professional Psychology 🎓</span>, which gives me a unique perspective on human-centered design and user experience.
                 </p>
 
                 <p>
@@ -44,7 +44,7 @@ return (
 
                 
           <p>
-            I'm continuously learning new technologies, building projects that solve real-world problems, and contributing to the developer community. When I'm not coding, you'll find me hiking and exploring the outdoors, or expanding my world coin collection.
+            I&apos;m continuously learning new technologies, building projects that solve real-world problems, and contributing to the developer community. When I&apos;m not coding, you&apos;ll find me hiking and exploring the outdoors, or expanding my world coin collection.
           </p>
           
           <p>
