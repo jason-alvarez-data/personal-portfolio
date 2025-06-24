@@ -26,37 +26,35 @@ export default function Home() {
 return (
     <div>
         <div className="mb-12">
-            <h1 className="text=3xl font-bold mb-4 flex items-center">
-                About You <span className="ml-2">👨‍💻</span>
+            <h1 className="text-3xl font-bold mb-4 flex items-center">
+                About Me <span className="ml-2">👨‍💻</span>
             </h1>
             <div className="h-1 w-16 bg-amber-400 mb-8"></div>
 
-            <TerminalText command="Me 👨‍💻 (He/Him)" />
+            <TerminalText command="whoami" />
 
             <div className="space-y-6 text-gray-300">
                 <p>
-                    I obtained my degree from <span className="text-amber-400">Chicago School of Professional Psychology 🎓</span>, driven by a sincere passion for psychology.
+                    I'm Jason Alvarez, a passionate software developer with a unique background in psychology. I hold a Master's degree from the <span className="text-amber-400">Chicago School of Professional Psychology 🎓</span>, which gives me a unique perspective on human-centered design and user experience.
                 </p>
 
                 <p>
-                Your field is built by humans. Unfortunately, humans make errors, <span className="text-amber-400 font-bold">LOTS of ERRORS</span>. 
-            Throughout human history, humans have learned to craft machines and tools to help us construct complex architecture. 
-            Inspired by this, I explore practical methodologies and tools to improve large-scale systems&apos; quality, reliability, and efficiency.
+                    I believe that great software is built by understanding human behavior and needs. My background in <span className="text-amber-400 font-medium">Industrial/Organizational Psychology</span> has taught me that humans make errors, and technology should be designed to minimize these errors while maximizing efficiency and user satisfaction.
                 </p>
 
                 
           <p>
-            In my spare time, I focus on processing my skills and learning in new technologies while also ensuring I take time out of my day to soak in sunlight and go hiking on my free time. 
+            I'm continuously learning new technologies, building projects that solve real-world problems, and contributing to the developer community. When I'm not coding, you'll find me hiking and exploring the outdoors, or expanding my world coin collection.
           </p>
           
           <p>
-            Self-motivated, Avid Learner of new technologies, and a Team player.
+            <span className="text-amber-400 font-medium">Core Values:</span> Self-motivated learner, collaborative team player, and advocate for accessible, human-centered technology.
           </p>
         </div>
       </div>
       
       <div>
-        <TerminalText command="Latest Articles" />
+        <TerminalText command="ls -la ~/articles" />
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {articles.map((article) => (
