@@ -141,7 +141,7 @@ export default function Portfolio() {
         </div>
 
         <div className="mt-12 glass p-6">
-          <h2 className="text-2xl font-semibold mb-4 text-amber-400">What's Next?</h2>
+          <h2 className="text-2xl font-semibold mb-4 text-amber-400">What&apos;s Next?</h2>
           <p className="text-gray-300 leading-relaxed mb-4">
             I&apos;m continuously working on new projects and learning emerging technologies. 
             Currently exploring machine learning applications and advanced React patterns.

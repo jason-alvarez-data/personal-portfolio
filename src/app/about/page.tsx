@@ -69,7 +69,7 @@ export default function About() {
             <div className="glass p-6">
               <h3 className="text-xl font-semibold text-amber-400 mb-3">📈 Continuous Learning</h3>
               <p className="text-gray-300 leading-relaxed">
-                I'm committed to expanding my programming skills with AI assistance, showcasing dedication to lifelong learning 
+                I&apos;m committed to expanding my programming skills with AI assistance, showcasing dedication to lifelong learning 
                 and adaptability in the rapidly evolving technology landscape.
               </p>
             </div>
@@ -96,7 +96,7 @@ export default function About() {
 
         <section>
           <h2 className="text-2xl font-semibold text-amber-400 mb-6 flex items-center">
-            Let's Connect <span className="ml-2">🤝</span>
+            Let&apos;s Connect <span className="ml-2">🤝</span>
           </h2>
           <div className="glass p-6">
             <p className="text-gray-300 leading-relaxed mb-6">
